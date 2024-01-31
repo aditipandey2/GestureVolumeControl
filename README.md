@@ -5,8 +5,11 @@ Requirements
 Ensure that you have the necessary libraries installed before running the application:
 
 OpenCV (pip install opencv-python)
+
 Mediapipe (pip install mediapipe)
+
 PyCaw (pip install PyCaw)
+
 How to Use
 Execute the HandGestureVolumeControl.py script.
 Set up your webcam correctly.
